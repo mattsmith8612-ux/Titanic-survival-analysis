@@ -39,13 +39,13 @@ This project forms part of my ongoing development in Python and data analysis to
 ## Visualisations
 
 ### Passenger Class Frequencies (Vertical)
-![Passenger Class Frequencies](Passenger%20Class%20Frequencies%20Vertical.png)
+![Passenger Class Frequencies](passenger_class_frequencies_vertical.png)
 [View full-size image](passenger_class_frequencies_vertical.png)
 
 ### Passenger Class Frequencies (Horizontal)
-![Passenger Class Frequencies](Passenger%20Class%20Frequencies%20Horizontal.png)
-[View full-size image](Passenger%20Class%20Frequencies%20Horizontal.png)
+![Passenger Class Frequencies](passenger_class_frequencies_horizontal.png)
+[View full-size image](passenger_class_frequencies_horizontal.png)
 
 ### Survival Rate by Class and Gender
-![Survival Rate by Class and Gender](Mean%20Passenger%20Survival%20Rate%20for%20Each%20Gender%20by%20Class.png)
-[View full-size image](Mean%20Passenger%20Survival%20Rate%20for%20Each%20Gender%20by%20Class.png)
+![Survival Rate by Class and Gender](survival_rate_by_class_and_gender.png)
+[View full-size image](survival_rate_by_class_and_gender.png)
