@@ -1,6 +1,6 @@
 # Titanic Survival Analysis
 
-Exploratory data analysis of the Titanic dataset using Python, pandas and matplotlib.
+Exploratory data analysis of the Titanic dataset using Python, pandas and matplotlib to investigate the factors influencing passenger survival.
 
 ## Project Overview
 
@@ -40,9 +40,12 @@ This project forms part of my ongoing development in Python and data analysis to
 
 ### Passenger Class Frequencies (Vertical)
 ![Passenger Class Frequencies](Passenger%20Class%20Frequencies%20Vertical.png)
+[View full-size image](passenger_class_frequencies_vertical.png)
 
 ### Passenger Class Frequencies (Horizontal)
 ![Passenger Class Frequencies](Passenger%20Class%20Frequencies%20Horizontal.png)
+[View full-size image](Passenger%20Class%20Frequencies%20Horizontal.png)
 
 ### Survival Rate by Class and Gender
 ![Survival Rate by Class and Gender](Mean%20Passenger%20Survival%20Rate%20for%20Each%20Gender%20by%20Class.png)
+[View full-size image](Mean%20Passenger%20Survival%20Rate%20for%20Each%20Gender%20by%20Class.png)
