@@ -33,6 +33,9 @@ This project uses the Titanic dataset from Kaggle's "Machine Learning from Disas
 - `Passenger Class Frequencies Horizontal.png` – Alternative visualisation of passenger frequencies.
 - `Mean Passenger Survival Rate for Each Gender by Class.png` – Survival rates by class and gender.
 
+## Note
+This project forms part of my ongoing development in Python and data analysis to complement my background in synthetic chemistry and laboratory research.
+
 ## Visualisations
 
 ### Passenger Class Frequencies (Vertical)
